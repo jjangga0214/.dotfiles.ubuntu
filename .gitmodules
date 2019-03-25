@@ -1,0 +1,3 @@
+[submodule ".dotfiles.debian.core"]
+	path = .dotfiles.debian.core
+	url = https://github.com/jjangga0214/.dotfiles.debian.core.git

@@ -1,0 +1,1 @@
+export DOTZ=$DOT/.dotfiles.debian.core/.dotfiles.oh-my-zsh
