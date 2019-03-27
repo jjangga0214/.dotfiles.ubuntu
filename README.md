@@ -5,7 +5,7 @@
 ## :warning: CAUTION
 
 * Read [CAUTION.md](CAUTION.md) before any execution here.
-* Read [README.md](.dotfiles.debain.core/README.md) of [.dotfiles.debain.core](.dotfiles.debain.core)(git submodule)
+* Read [.dotfiles.debain.core/README.md](.dotfiles.debain.core/README.md) (git submodule)
 
 ## project convention
 
@@ -29,9 +29,9 @@ Basically, this project is to automatically set preferable environment with ease
 sudo bash install.sh
 ```
 
-## maunal installation and configuration
+## maunal installation, configuration and upgrade
 
-See [MANUAL.md](MANUAL.md).
+Of course, the better the more operations are done automatically. But at least currently, some tasks are not in the range of automation so shoule be manually handled. See [MANUAL.md](MANUAL.md).
 
 ## [license](LICENSE)
 

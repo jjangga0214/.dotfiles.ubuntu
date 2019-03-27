@@ -12,9 +12,9 @@
 
 [install.sh](install.sh) internally executes the following scripts. So, before executing [install.sh](install.sh), be careful of cautions below.
 
-### [apt/install.post.sh](apt/install.post.sh)
+### apt/\*.sh
 
-This literally only works with **apt**. `apt` is used instead of `apt-get`.
+They literally only works with **apt**. `apt` is used instead of `apt-get`.
 
 ### [apt/docker.sh](apt/docker.sh)
 
