@@ -4,14 +4,14 @@
 
 ## :warning: CAUTION
 
-* Read [CAUTION.md](CAUTION.md) before any execution here.
-* Read [.dotfiles.debain.core/README.md](.dotfiles.debain.core/README.md) (git submodule)
+- Read [CAUTION.md](CAUTION.md) before any execution here.
+- Read [.dotfiles.debain.core/README.md](.dotfiles.debain.core/README.md) (git submodule)
 
 ## project convention
 
-* Most directories have **README.md**. Please refer them to get detail.
-* If one can easily grasp role and effect of a certain script by just looking it, detail description is omitted in README.md.
-* Most scripts and README.md do not care about specific upper level use. To know how a script is used(from 'client-side') in overall, one need to look at decription on higher level modules, which are close to project root.
+- Most directories have **README.md**. Please refer them to get detail.
+- If one can easily grasp role and effect of a certain script by just looking it, detail description is omitted in README.md.
+- Most scripts and README.md do not care about specific upper level use. To know how a script is used(from 'client-side') in overall, one need to look at decription on higher level modules, which are close to project root.
 
 ## clone and placement
 
