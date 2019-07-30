@@ -1,10 +1,10 @@
 # [ref](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
 # prerequistes
-apt install-y apt-transport-https
-apt install-y ca-certificates
-apt install-y gnupg-agent
-apt install-y software-properties-common 
+apt install -y apt-transport-https
+apt install -y ca-certificates
+apt install -y gnupg-agent
+apt install -y software-properties-common 
 
 # add Docker’s official GPG key    
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
